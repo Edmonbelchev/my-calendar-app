@@ -1,3 +1,3 @@
-# my-calendar-app
-A simple calendar web application made with Vue.js
-Go here to check it out: https://edmonbelchev.github.io/my-calendar-app/
+# Calendar Web App 
+🌊 A simple calendar web application made with Vue.js <br>
+🌊 Go here to check it out here 👉 https://edmonbelchev.github.io/my-calendar-app/
